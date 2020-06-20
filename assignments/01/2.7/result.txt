@@ -1,0 +1,5 @@
+100 days from today:
+  Date: 2020-8-28
+  Weekday: 2
+Weekday of Alan Turing’s birthday: 1
+Date that is 10,000 days from Alan Turing’s birthday: 1939-10-9
