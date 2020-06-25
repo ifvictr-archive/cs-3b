@@ -1,0 +1,3 @@
+Initial battery capacity: 3000.0
+Drained 1000. New capacity should be 2000: 2000.0
+Recharged. New capacity should be 3000: 3000.0
