@@ -1,0 +1,18 @@
+Victor’s friends:
+Dave’s friends:
+
+* Victor befriended Dave!
+Victor’s friends: Dave
+Dave’s friends:
+
+* Dave befriended Victor!
+Victor’s friends: Dave
+Dave’s friends: Victor
+
+* Victor unfriended Dave! :(
+Victor’s friends:
+Dave’s friends: Victor
+
+* Dave unfriended Victor! :(
+Victor’s friends:
+Dave’s friends:
