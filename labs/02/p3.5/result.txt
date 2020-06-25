@@ -1,0 +1,11 @@
+Starting microwave…
+Cooking for 0 seconds at level 1
+Increased time
+Cooking for 30 seconds at level 1
+Increased time
+Increased time
+Cooking for 90 seconds at level 1
+Cooking for 90 seconds at level 2
+Cooking for 90 seconds at level 1
+Cooking for 90 seconds at level 2
+Cooking for 0 seconds at level 1
