@@ -1,4 +1,3 @@
-
 /*
  * Assignment 1: P2.7 by Victor Truong
  *
