@@ -1,0 +1,15 @@
+Initial values:
+  Votes for Democrats: 0
+  Votes for Republicans: 0
+Someone voted for the Democrats! New results:
+  Votes for Democrats: 1
+  Votes for Republicans: 0
+Someone voted for the Republicans! New results:
+  Votes for Democrats: 1
+  Votes for Republicans: 1
+Someone voted for the Democrats again! New results:
+  Votes for Democrats: 2
+  Votes for Republicans: 1
+Oops, the machine broke and all the votes were cleared!
+  Votes for Democrats: 0
+  Votes for Republicans: 0
