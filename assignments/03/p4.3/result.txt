@@ -1,0 +1,23 @@
+Please input a number: 371
+reversedNum: 173
+diff: 198
+reversedDiff: 891
+1089 puzzle result: 1089
+
+Please input a number: 123
+reversedNum: 321
+diff: 198
+reversedDiff: 891
+1089 puzzle result: 1089
+
+Please input a number: 456
+reversedNum: 654
+diff: 198
+reversedDiff: 891
+1089 puzzle result: 1089
+
+Please input a number: 789
+reversedNum: 987
+diff: 198
+reversedDiff: 891
+1089 puzzle result: 1089
