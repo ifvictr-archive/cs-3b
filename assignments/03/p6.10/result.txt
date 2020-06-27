@@ -1,0 +1,18 @@
+Start entering your floating point values below! After you finish, just type ‘q’ and hit enter.
+> 1
+1 has been added!
+> 2
+2 has been added!
+> 3
+3 has been added!
+> four
+Invalid input!
+> 4
+4 has been added!
+> 5
+5 has been added!
+> q
+Done! Here are the results:
+Numbers entered: 5
+Average: 3.00
+Standard deviation: 3.71
