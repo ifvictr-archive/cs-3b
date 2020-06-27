@@ -1,0 +1,12 @@
+Enter your bank card PIN: 1000
+Your PIN is incorrect
+Enter your bank card PIN: 1001
+Your PIN is incorrect
+Enter your bank card PIN: 1002
+Your PIN is incorrect
+Your bank card is blocked
+
+Enter your bank card PIN: 1000
+Your PIN is incorrect
+Enter your bank card PIN: 1234
+Your PIN is correct
