@@ -23,3 +23,9 @@ Amount remaining after 21 hours: 265.17
 Amount remaining after 22 hours: 236.24
 Amount remaining after 23 hours: 210.46
 Amount remaining after 24 hours: 187.50
+
+Amount 3000.00 should be 3000.00 after 0 hours, got 3000.00
+Amount 3000.00 should be 1500.00 after 6 hours, got 1500.00
+Amount 3000.00 should be 750.00 after 12 hours, got 750.00
+Amount 3000.00 should be 375.00 after 18 hours, got 375.00
+Amount 3000.00 should be 187.50 after 24 hours, got 187.50
