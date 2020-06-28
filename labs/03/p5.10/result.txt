@@ -1,0 +1,27 @@
+Start entering the numbers you want to convert to Roman numerals below. After you finish, just type ‘q’ and hit enter.
+> 0
+Input must be between 1 and 3999, inclusively
+> 4
+4 → IV
+> 30
+30 → XXX
+> 56
+56 → LVI
+> 99
+99 → XCIX
+> 420
+420 → CDXX
+> 777
+777 → DCCLXXVII
+> 1001
+1001 → MI
+> 2020
+2020 → MMXX
+> 3900
+3900 → MMMCM
+> 3999
+3999 → MMMCMXCIX
+> 4000
+Input must be between 1 and 3999, inclusively
+> q
+Exiting…
