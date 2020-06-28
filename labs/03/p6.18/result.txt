@@ -1,0 +1,25 @@
+Initial Technetium-99 dosage: 3000.00
+Amount remaining after 1 hours: 2672.70
+Amount remaining after 2 hours: 2381.10
+Amount remaining after 3 hours: 2121.32
+Amount remaining after 4 hours: 1889.88
+Amount remaining after 5 hours: 1683.69
+Amount remaining after 6 hours: 1500.00
+Amount remaining after 7 hours: 1336.35
+Amount remaining after 8 hours: 1190.55
+Amount remaining after 9 hours: 1060.66
+Amount remaining after 10 hours: 944.94
+Amount remaining after 11 hours: 841.85
+Amount remaining after 12 hours: 750.00
+Amount remaining after 13 hours: 668.17
+Amount remaining after 14 hours: 595.28
+Amount remaining after 15 hours: 530.33
+Amount remaining after 16 hours: 472.47
+Amount remaining after 17 hours: 420.92
+Amount remaining after 18 hours: 375.00
+Amount remaining after 19 hours: 334.09
+Amount remaining after 20 hours: 297.64
+Amount remaining after 21 hours: 265.17
+Amount remaining after 22 hours: 236.24
+Amount remaining after 23 hours: 210.46
+Amount remaining after 24 hours: 187.50
