@@ -1,3 +1,10 @@
+/*
+ * Lab 3: P5.10 by Victor Truong
+ *
+ * This program takes in numbers between 1 and 3999 (inclusive) in decimal format from the user,
+ * then converts them into Roman numerals, and outputs them.
+ */
+
 import java.util.Scanner;
 
 /**
