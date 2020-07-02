@@ -56,7 +56,7 @@ public class DiceUtil {
             currentRun++;
             if (currentRun > longestRun) {
                 longestRun = currentRun;
-                // Add one because the end index of the first number that doesn't match
+                // Add one because the end is the index of the first number that doesn't match after
                 longestRunEndPos = i + 1;
             }
         }
