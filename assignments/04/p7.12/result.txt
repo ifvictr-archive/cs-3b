@@ -1,0 +1,9 @@
+Enter the items below. Use '-1' as the price to see the applicable discount of the total cost.
+What’s the price of the item? 12.12
+How many were purchased? 13
+Was it a pet? (Y/N) y
+What’s the price of the item? 59.11
+How many were purchased? 13
+Was it a pet? (Y/N) n
+What’s the price of the item? -1
+Discount: 153.69
