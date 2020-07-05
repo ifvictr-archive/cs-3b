@@ -1,0 +1,116 @@
+******************************
+Welcome to Video Poker!
+******************************
+You paid 1 token(s) to play! Remaining tokens: 99
+Your hand:
+1. Ten of Hearts
+2. Ten of Spades
+3. King of Spades
+4. Ace of Spades
+5. Seven of Spades
+
+What do you want to do with your cards?
+A. Keep all
+B. Replace some
+C. Reject all
+> a
+Keeping all five cards…
+You got One pair!
+You gained 1 tokens from this round. New total: 100
+
+Want to play again? (Y/n) y
+You paid 1 token(s) to play! Remaining tokens: 99
+Your hand:
+1. Ten of Hearts
+2. Ten of Spades
+3. King of Spades
+4. Ace of Spades
+5. Seven of Spades
+
+What do you want to do with your cards?
+A. Keep all
+B. Replace some
+C. Reject all
+> c
+Rejected all five cards…
+You got No pair!
+You gained 0 tokens from this round. New total: 99
+
+Want to play again? (Y/n) y
+You paid 1 token(s) to play! Remaining tokens: 98
+Your hand:
+1. King of Diamonds
+2. Five of Clubs
+3. Five of Spades
+4. Two of Clubs
+5. Queen of Clubs
+
+What do you want to do with your cards?
+A. Keep all
+B. Replace some
+C. Reject all
+> a
+Keeping all five cards…
+You got One pair!
+You gained 1 tokens from this round. New total: 99
+
+Want to play again? (Y/n) y
+You paid 1 token(s) to play! Remaining tokens: 98
+Your hand:
+1. King of Diamonds
+2. Five of Clubs
+3. Five of Spades
+4. Two of Clubs
+5. Queen of Clubs
+
+What do you want to do with your cards?
+A. Keep all
+B. Replace some
+C. Reject all
+> a
+Keeping all five cards…
+You got One pair!
+You gained 1 tokens from this round. New total: 99
+
+Want to play again? (Y/n) y
+You paid 1 token(s) to play! Remaining tokens: 98
+Your hand:
+1. King of Diamonds
+2. Five of Clubs
+3. Five of Spades
+4. Two of Clubs
+5. Queen of Clubs
+
+What do you want to do with your cards?
+A. Keep all
+B. Replace some
+C. Reject all
+> b
+Which card do you want to select/unselect? (from 1–5; 0 to exit selection)
+> 4
+Added Two of Clubs to selected cards to reject.
+Which card do you want to select/unselect? (from 1–5; 0 to exit selection)
+> 0
+Exiting selection
+You got Three of a kind!
+You gained 3 tokens from this round. New total: 101
+
+Want to play again? (Y/n) You paid 1 token(s) to play! Remaining tokens: 100
+Your hand:
+1. King of Diamonds
+2. Five of Clubs
+3. Five of Spades
+4. Five of Spades
+5. Queen of Clubs
+
+What do you want to do with your cards?
+A. Keep all
+B. Replace some
+C. Reject all
+> a
+Keeping all five cards…
+You got Three of a kind!
+You gained 3 tokens from this round. New total: 103
+
+Want to play again? (Y/n) n
+Bye!
