@@ -1,0 +1,14 @@
+testTurnLeft:
+  Expected 39, got 39
+  Expected 0, got 0
+testTurnRight:
+  Expected 39, got 39
+  Expected 0, got 0
+testFailedOpen:
+  Expected false, got false
+testSuccessfulOpen:
+  Expected 0, got 0
+  Expected 39, got 39
+  Expected 9, got 9
+  Expected 3, got 3
+  Expected true, got true
