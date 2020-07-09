@@ -1,0 +1,505 @@
+   1    2    3    4
+1  ---- ---- ---- ----
+2  ---- ---- ---- ----
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 1
+Now, enter the column: 1
+You’ve selected the tile on row 1, column 1.
+   1    2    3    4
+1  line ---- ---- ----
+2  ---- ---- ---- ----
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 1
+Now, enter the column: 2
+You’ve selected the tile on row 1, column 2.
+   1    2    3    4
+1  line java ---- ----
+2  ---- ---- ---- ----
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
+Oof, the tiles you selected do not match!
+   1    2    3    4
+1  ---- ---- ---- ----
+2  ---- ---- ---- ----
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 1
+Now, enter the column: 3
+You’ve selected the tile on row 1, column 3.
+   1    2    3    4
+1  ---- ---- king ----
+2  ---- ---- ---- ----
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 1 4
+Now, enter the column: You’ve selected the tile on row 1, column 4.
+   1    2    3    4
+1  ---- ---- king love
+2  ---- ---- ---- ----
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
+Oof, the tiles you selected do not match!
+   1    2    3    4
+1  ---- ---- ---- ----
+2  ---- ---- ---- ----
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 2 1
+Now, enter the column: You’ve selected the tile on row 2, column 1.
+   1    2    3    4
+1  ---- ---- ---- ----
+2  time ---- ---- ----
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 2 2
+Now, enter the column: You’ve selected the tile on row 2, column 2.
+   1    2    3    4
+1  ---- ---- ---- ----
+2  time fish ---- ----
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
+Oof, the tiles you selected do not match!
+   1    2    3    4
+1  ---- ---- ---- ----
+2  ---- ---- ---- ----
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 2 3
+Now, enter the column: You’ve selected the tile on row 2, column 3.
+   1    2    3    4
+1  ---- ---- ---- ----
+2  ---- ---- fire ----
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 2 4
+Now, enter the column: You’ve selected the tile on row 2, column 4.
+   1    2    3    4
+1  ---- ---- ---- ----
+2  ---- ---- fire love
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
+Oof, the tiles you selected do not match!
+   1    2    3    4
+1  ---- ---- ---- ----
+2  ---- ---- ---- ----
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 1 4
+Now, enter the column: You’ve selected the tile on row 1, column 4.
+   1    2    3    4
+1  ---- ---- ---- love
+2  ---- ---- ---- ----
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 2 4
+Now, enter the column: You’ve selected the tile on row 2, column 4.
+   1    2    3    4
+1  ---- ---- ---- love
+2  ---- ---- ---- love
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
++2 pt for getting matching tiles! New score: 2
+   1    2    3    4
+1  ---- ---- ---- love
+2  ---- ---- ---- love
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 3 4
+Now, enter the column: You’ve selected the tile on row 3, column 4.
+   1    2    3    4
+1  ---- ---- ---- love
+2  ---- ---- ---- love
+3  ---- ---- ---- line
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 1 2
+Now, enter the column: You’ve selected the tile on row 1, column 2.
+   1    2    3    4
+1  ---- java ---- love
+2  ---- ---- ---- love
+3  ---- ---- ---- line
+4  ---- ---- ---- ----
+Oof, the tiles you selected do not match!
+   1    2    3    4
+1  ---- ---- ---- love
+2  ---- ---- ---- love
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 1 1
+Now, enter the column: You’ve selected the tile on row 1, column 1.
+   1    2    3    4
+1  line ---- ---- love
+2  ---- ---- ---- love
+3  ---- ---- ---- ----
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 3 4
+Now, enter the column: You’ve selected the tile on row 3, column 4.
+   1    2    3    4
+1  line ---- ---- love
+2  ---- ---- ---- love
+3  ---- ---- ---- line
+4  ---- ---- ---- ----
++1 pt for getting matching tiles! New score: 3
+   1    2    3    4
+1  line ---- ---- love
+2  ---- ---- ---- love
+3  ---- ---- ---- line
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 4 4
+Now, enter the column: You’ve selected the tile on row 4, column 4.
+   1    2    3    4
+1  line ---- ---- love
+2  ---- ---- ---- love
+3  ---- ---- ---- line
+4  ---- ---- ---- tire
+Enter the number of row of the tile you want to select: 4 1
+Now, enter the column: You’ve selected the tile on row 4, column 1.
+   1    2    3    4
+1  line ---- ---- love
+2  ---- ---- ---- love
+3  ---- ---- ---- line
+4  fire ---- ---- tire
+Oof, the tiles you selected do not match!
+   1    2    3    4
+1  line ---- ---- love
+2  ---- ---- ---- love
+3  ---- ---- ---- line
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 1 2
+Now, enter the column: You’ve selected the tile on row 1, column 2.
+   1    2    3    4
+1  line java ---- love
+2  ---- ---- ---- love
+3  ---- ---- ---- line
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 1 3
+Now, enter the column: You’ve selected the tile on row 1, column 3.
+   1    2    3    4
+1  line java king love
+2  ---- ---- ---- love
+3  ---- ---- ---- line
+4  ---- ---- ---- ----
+Oof, the tiles you selected do not match!
+   1    2    3    4
+1  line ---- ---- love
+2  ---- ---- ---- love
+3  ---- ---- ---- line
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 2 1
+Now, enter the column: You’ve selected the tile on row 2, column 1.
+   1    2    3    4
+1  line ---- ---- love
+2  time ---- ---- love
+3  ---- ---- ---- line
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 2 2
+Now, enter the column: You’ve selected the tile on row 2, column 2.
+   1    2    3    4
+1  line ---- ---- love
+2  time fish ---- love
+3  ---- ---- ---- line
+4  ---- ---- ---- ----
+Oof, the tiles you selected do not match!
+   1    2    3    4
+1  line ---- ---- love
+2  ---- ---- ---- love
+3  ---- ---- ---- line
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 3 2
+Now, enter the column: You’ve selected the tile on row 3, column 2.
+   1    2    3    4
+1  line ---- ---- love
+2  ---- ---- ---- love
+3  ---- java ---- line
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 1 3
+Now, enter the column: You’ve selected the tile on row 1, column 3.
+   1    2    3    4
+1  line ---- king love
+2  ---- ---- ---- love
+3  ---- java ---- line
+4  ---- ---- ---- ----
+Oof, the tiles you selected do not match!
+   1    2    3    4
+1  line ---- ---- love
+2  ---- ---- ---- love
+3  ---- ---- ---- line
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 1 2
+Now, enter the column: You’ve selected the tile on row 1, column 2.
+   1    2    3    4
+1  line java ---- love
+2  ---- ---- ---- love
+3  ---- ---- ---- line
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 3 2
+Now, enter the column: You’ve selected the tile on row 3, column 2.
+   1    2    3    4
+1  line java ---- love
+2  ---- ---- ---- love
+3  ---- java ---- line
+4  ---- ---- ---- ----
++1 pt for getting matching tiles! New score: 4
+   1    2    3    4
+1  line java ---- love
+2  ---- ---- ---- love
+3  ---- java ---- line
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 4 1
+Now, enter the column: You’ve selected the tile on row 4, column 1.
+   1    2    3    4
+1  line java ---- love
+2  ---- ---- ---- love
+3  ---- java ---- line
+4  fire ---- ---- ----
+Enter the number of row of the tile you want to select: 4 4
+Now, enter the column: You’ve selected the tile on row 4, column 4.
+   1    2    3    4
+1  line java ---- love
+2  ---- ---- ---- love
+3  ---- java ---- line
+4  fire ---- ---- tire
+Oof, the tiles you selected do not match!
+   1    2    3    4
+1  line java ---- love
+2  ---- ---- ---- love
+3  ---- java ---- line
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 1 3
+Now, enter the column: You’ve selected the tile on row 1, column 3.
+   1    2    3    4
+1  line java king love
+2  ---- ---- ---- love
+3  ---- java ---- line
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 3 3
+Now, enter the column: You’ve selected the tile on row 3, column 3.
+   1    2    3    4
+1  line java king love
+2  ---- ---- ---- love
+3  ---- java time line
+4  ---- ---- ---- ----
+Oof, the tiles you selected do not match!
+   1    2    3    4
+1  line java ---- love
+2  ---- ---- ---- love
+3  ---- java ---- line
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 2 2
+Now, enter the column: You’ve selected the tile on row 2, column 2.
+   1    2    3    4
+1  line java ---- love
+2  ---- fish ---- love
+3  ---- java ---- line
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 1 3
+Now, enter the column: You’ve selected the tile on row 1, column 3.
+   1    2    3    4
+1  line java king love
+2  ---- fish ---- love
+3  ---- java ---- line
+4  ---- ---- ---- ----
+Oof, the tiles you selected do not match!
+   1    2    3    4
+1  line java ---- love
+2  ---- ---- ---- love
+3  ---- java ---- line
+4  ---- ---- ---- ----
+Enter the number of row of the tile you want to select: 4 2
+Now, enter the column: You’ve selected the tile on row 4, column 2.
+   1    2    3    4
+1  line java ---- love
+2  ---- ---- ---- love
+3  ---- java ---- line
+4  ---- fish ---- ----
+Enter the number of row of the tile you want to select: 2 2
+Now, enter the column: You’ve selected the tile on row 2, column 2.
+   1    2    3    4
+1  line java ---- love
+2  ---- fish ---- love
+3  ---- java ---- line
+4  ---- fish ---- ----
++1 pt for getting matching tiles! New score: 5
+   1    2    3    4
+1  line java ---- love
+2  ---- fish ---- love
+3  ---- java ---- line
+4  ---- fish ---- ----
+Enter the number of row of the tile you want to select: 2 3
+Now, enter the column: You’ve selected the tile on row 2, column 3.
+   1    2    3    4
+1  line java ---- love
+2  ---- fish fire love
+3  ---- java ---- line
+4  ---- fish ---- ----
+Enter the number of row of the tile you want to select: 4 4
+Now, enter the column: You’ve selected the tile on row 4, column 4.
+   1    2    3    4
+1  line java ---- love
+2  ---- fish fire love
+3  ---- java ---- line
+4  ---- fish ---- tire
+Oof, the tiles you selected do not match!
+   1    2    3    4
+1  line java ---- love
+2  ---- fish ---- love
+3  ---- java ---- line
+4  ---- fish ---- ----
+Enter the number of row of the tile you want to select: 1 3
+Now, enter the column: You’ve selected the tile on row 1, column 3.
+   1    2    3    4
+1  line java king love
+2  ---- fish ---- love
+3  ---- java ---- line
+4  ---- fish ---- ----
+Enter the number of row of the tile you want to select: 4 3
+Now, enter the column: You’ve selected the tile on row 4, column 3.
+   1    2    3    4
+1  line java king love
+2  ---- fish ---- love
+3  ---- java ---- line
+4  ---- fish tire ----
+Oof, the tiles you selected do not match!
+   1    2    3    4
+1  line java ---- love
+2  ---- fish ---- love
+3  ---- java ---- line
+4  ---- fish ---- ----
+Enter the number of row of the tile you want to select: 4 4
+Now, enter the column: You’ve selected the tile on row 4, column 4.
+   1    2    3    4
+1  line java ---- love
+2  ---- fish ---- love
+3  ---- java ---- line
+4  ---- fish ---- tire
+Enter the number of row of the tile you want to select: 4 3
+Now, enter the column: You’ve selected the tile on row 4, column 3.
+   1    2    3    4
+1  line java ---- love
+2  ---- fish ---- love
+3  ---- java ---- line
+4  ---- fish tire tire
++2 pt for getting matching tiles! New score: 7
+   1    2    3    4
+1  line java ---- love
+2  ---- fish ---- love
+3  ---- java ---- line
+4  ---- fish tire tire
+Enter the number of row of the tile you want to select: 2 1
+Now, enter the column: You’ve selected the tile on row 2, column 1.
+   1    2    3    4
+1  line java ---- love
+2  time fish ---- love
+3  ---- java ---- line
+4  ---- fish tire tire
+Enter the number of row of the tile you want to select: 3 3
+Now, enter the column: You’ve selected the tile on row 3, column 3.
+   1    2    3    4
+1  line java ---- love
+2  time fish ---- love
+3  ---- java time line
+4  ---- fish tire tire
++1 pt for getting matching tiles! New score: 8
+   1    2    3    4
+1  line java ---- love
+2  time fish ---- love
+3  ---- java time line
+4  ---- fish tire tire
+Enter the number of row of the tile you want to select: 4 1
+Now, enter the column: You’ve selected the tile on row 4, column 1.
+   1    2    3    4
+1  line java ---- love
+2  time fish ---- love
+3  ---- java time line
+4  fire fish tire tire
+Enter the number of row of the tile you want to select: 1 3
+Now, enter the column: You’ve selected the tile on row 1, column 3.
+   1    2    3    4
+1  line java king love
+2  time fish ---- love
+3  ---- java time line
+4  fire fish tire tire
+Oof, the tiles you selected do not match!
+   1    2    3    4
+1  line java ---- love
+2  time fish ---- love
+3  ---- java time line
+4  ---- fish tire tire
+Enter the number of row of the tile you want to select: 4 1
+Now, enter the column: You’ve selected the tile on row 4, column 1.
+   1    2    3    4
+1  line java ---- love
+2  time fish ---- love
+3  ---- java time line
+4  fire fish tire tire
+Enter the number of row of the tile you want to select: 3 1
+Now, enter the column: You’ve selected the tile on row 3, column 1.
+   1    2    3    4
+1  line java ---- love
+2  time fish ---- love
+3  king java time line
+4  fire fish tire tire
+Oof, the tiles you selected do not match!
+   1    2    3    4
+1  line java ---- love
+2  time fish ---- love
+3  ---- java time line
+4  ---- fish tire tire
+Enter the number of row of the tile you want to select: 3 1
+Now, enter the column: You’ve selected the tile on row 3, column 1.
+   1    2    3    4
+1  line java ---- love
+2  time fish ---- love
+3  king java time line
+4  ---- fish tire tire
+Enter the number of row of the tile you want to select: 2 3
+Now, enter the column: You’ve selected the tile on row 2, column 3.
+   1    2    3    4
+1  line java ---- love
+2  time fish fire love
+3  king java time line
+4  ---- fish tire tire
+Oof, the tiles you selected do not match!
+   1    2    3    4
+1  line java ---- love
+2  time fish ---- love
+3  ---- java time line
+4  ---- fish tire tire
+Enter the number of row of the tile you want to select: 3 1
+Now, enter the column: You’ve selected the tile on row 3, column 1.
+   1    2    3    4
+1  line java ---- love
+2  time fish ---- love
+3  king java time line
+4  ---- fish tire tire
+Enter the number of row of the tile you want to select: 1 3
+Now, enter the column: You’ve selected the tile on row 1, column 3.
+   1    2    3    4
+1  line java king love
+2  time fish ---- love
+3  king java time line
+4  ---- fish tire tire
++1 pt for getting matching tiles! New score: 9
+   1    2    3    4
+1  line java king love
+2  time fish ---- love
+3  king java time line
+4  ---- fish tire tire
+Enter the number of row of the tile you want to select: 4 1
+Now, enter the column: You’ve selected the tile on row 4, column 1.
+   1    2    3    4
+1  line java king love
+2  time fish ---- love
+3  king java time line
+4  fire fish tire tire
+Enter the number of row of the tile you want to select: 2 3
+Now, enter the column: You’ve selected the tile on row 2, column 3.
+   1    2    3    4
+1  line java king love
+2  time fish fire love
+3  king java time line
+4  fire fish tire tire
++1 pt for getting matching tiles! New score: 10
+Want to play again? (y/n) n
+See ya!
