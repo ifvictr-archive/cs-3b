@@ -1,0 +1,1049 @@
+[Station #1] Car 1 picked up passenger 15.
+[Station #1] Car 3 picked up passenger 7.
+[Station #1] Car 5 picked up passenger 3.
+[Station #2] Car 6 picked up passenger 40.
+[Station #2] Car 3 picked up passenger 27.
+[Station #3] Car 11 picked up passenger 44.
+[Station #3] Car 13 picked up passenger 50.
+[Station #3] Car 13 picked up passenger 55.
+[Station #3] Car 15 picked up passenger 48.
+[Station #3] Car 8 picked up passenger 58.
+[Station #4] Car 16 picked up passenger 70.
+[Station #4] Car 18 picked up passenger 72.
+[Station #5] Car 21 picked up passenger 82.
+[Station #5] Car 25 picked up passenger 90.
+[Station #5] Car 18 picked up passenger 83.
+[Station #6] Car 26 picked up passenger 116.
+[Station #6] Car 28 picked up passenger 117.
+[Station #6] Car 30 picked up passenger 112.
+[Station #6] Car 30 picked up passenger 120.
+[Station #6] Car 23 picked up passenger 118.
+[Station #7] Car 33 picked up passenger 129.
+[Station #8] Car 40 picked up passenger 146.
+[Station #9] Car 43 picked up passenger 164.
+[Station #9] Car 38 picked up passenger 180.
+[Station #10] Car 48 picked up passenger 182.
+[Station #10] Car 48 picked up passenger 194.
+[Station #10] Car 50 picked up passenger 189.
+[Station #10] Car 38 picked up passenger 190.
+[Station #10] Car 38 picked up passenger 195.
+[Station #11] Car 53 picked up passenger 203.
+[Station #11] Car 55 picked up passenger 206.
+[Station #11] Car 43 dropped off passenger 164.
+[Station #11] Car 43 has arrived at its destination. Total miles: 2, total revenue: $10.00
+[Station #12] Car 58 has arrived at its destination. Total miles: 0, total revenue: $0.00
+[Station #12] Car 59 picked up passenger 221.
+[Station #13] Car 61 picked up passenger 245.
+[Station #13] Car 61 picked up passenger 250.
+[Station #13] Car 61 picked up passenger 252.
+[Station #13] Car 65 picked up passenger 260.
+[Station #14] Car 70 picked up passenger 268.
+[Station #14] Car 70 picked up passenger 278.
+[Station #14] Car 59 picked up passenger 275.
+[Station #14] Car 59 picked up passenger 277.
+[Station #15] Car 71 picked up passenger 293.
+[Station #15] Car 71 picked up passenger 298.
+[Station #15] Car 68 picked up passenger 285.
+[Station #16] Car 80 picked up passenger 302.
+[Station #16] Car 73 picked up passenger 303.
+[Station #17] Car 83 picked up passenger 329.
+[Station #17] Car 83 picked up passenger 338.
+[Station #17] Car 85 picked up passenger 326.
+[Station #18] Car 88 picked up passenger 352.
+[Station #18] Car 90 picked up passenger 356.
+[Station #18] Car 78 has arrived at its destination. Total miles: 2, total revenue: $0.00
+[Station #19] Car 91 picked up passenger 367.
+[Station #19] Car 93 picked up passenger 376.
+[Station #19] Car 93 picked up passenger 380.
+[Station #19] Car 88 picked up passenger 366.
+[Station #20] Car 98 picked up passenger 391.
+[Station #21] Car 101 picked up passenger 412.
+[Station #21] Car 105 picked up passenger 410.
+[Station #21] Car 93 picked up passenger 403.
+[Station #21] Car 93 picked up passenger 409.
+[Station #22] Car 103 picked up passenger 421.
+[Station #22] Car 98 picked up passenger 434.
+[Station #23] Car 111 picked up passenger 447.
+[Station #23] Car 113 picked up passenger 453.
+[Station #23] Car 108 picked up passenger 443.
+[Station #24] Car 108 picked up passenger 472.
+[Station #25] Car 123 picked up passenger 485.
+[Station #25] Car 123 picked up passenger 497.
+[Station #25] Car 123 picked up passenger 499.
+[Station #25] Car 125 picked up passenger 482.
+[Station #25] Car 125 picked up passenger 489.
+[Station #26] Car 126 picked up passenger 502.
+[Station #26] Car 128 picked up passenger 507.
+[Station #26] Car 130 has arrived at its destination. Total miles: 0, total revenue: $0.00
+[Station #26] Car 121 picked up passenger 504.
+[Station #26] Car 125 picked up passenger 510.
+[Station #26] Car 125 picked up passenger 514.
+[Station #27] Car 131 picked up passenger 540.
+[Station #28] Car 140 picked up passenger 542.
+[Station #28] Car 140 picked up passenger 552.
+[Station #28] Car 140 picked up passenger 559.
+[Station #28] Car 128 picked up passenger 546.
+[Station #28] Car 128 picked up passenger 549.
+[Station #29] Car 143 picked up passenger 567.
+[Station #29] Car 143 picked up passenger 579.
+[Station #29] Car 145 picked up passenger 566.
+[Station #30] Car 146 picked up passenger 596.
+[Station #30] Car 148 picked up passenger 594.
+[Station #30] Car 150 has arrived at its destination. Total miles: 0, total revenue: $0.00
+[Station #30] Car 145 picked up passenger 586.
+[Station #30] Car 145 picked up passenger 591.
+[Station #30] Car 133 picked up passenger 599.
+[Station #1] Car 146 picked up passenger 4.
+[Station #1] Car 146 picked up passenger 8.
+[Station #1] Car 146 picked up passenger 11.
+[Station #2] Car 7 picked up passenger 22.
+[Station #2] Car 2 picked up passenger 28.
+[Station #2] Car 2 picked up passenger 31.
+[Station #3] Car 6 picked up passenger 42.
+[Station #3] Car 2 picked up passenger 57.
+[Station #4] Car 17 picked up passenger 68.
+[Station #4] Car 17 picked up passenger 79.
+[Station #4] Car 11 picked up passenger 66.
+[Station #4] Car 6 picked up passenger 64.
+[Station #4] Car 2 picked up passenger 67.
+[Station #5] Car 16 picked up passenger 84.
+[Station #6] Car 13 picked up passenger 114.
+[Station #6] Car 16 picked up passenger 108.
+[Station #7] Car 21 dropped off passenger 82.
+[Station #7] Car 21 has arrived at its destination. Total miles: 2, total revenue: $10.00
+[Station #7] Car 11 picked up passenger 130.
+[Station #8] Car 23 picked up passenger 152.
+[Station #8] Car 26 picked up passenger 160.
+[Station #9] Car 42 picked up passenger 165.
+[Station #9] Car 28 dropped off passenger 117.
+[Station #9] Car 28 has arrived at its destination. Total miles: 3, total revenue: $15.00
+[Station #9] Car 37 picked up passenger 174.
+[Station #9] Car 13 picked up passenger 161.
+[Station #10] Car 41 picked up passenger 196.
+[Station #10] Car 41 picked up passenger 200.
+[Station #10] Car 36 picked up passenger 186.
+[Station #10] Car 36 picked up passenger 188.
+[Station #10] Car 36 picked up passenger 198.
+[Station #11] Car 52 picked up passenger 213.
+[Station #12] Car 41 picked up passenger 222.
+[Station #12] Car 41 picked up passenger 227.
+[Station #13] Car 56 picked up passenger 253.
+[Station #13] Car 60 picked up passenger 255.
+[Station #14] Car 67 picked up passenger 270.
+[Station #14] Car 56 picked up passenger 265.
+[Station #15] Car 66 picked up passenger 291.
+[Station #15] Car 59 picked up passenger 294.
+[Station #16] Car 63 picked up passenger 320.
+[Station #16] Car 66 picked up passenger 304.
+[Station #17] Car 82 picked up passenger 333.
+[Station #17] Car 68 picked up passenger 321.
+[Station #17] Car 68 picked up passenger 336.
+[Station #17] Car 71 picked up passenger 335.
+[Station #18] Car 87 picked up passenger 341.
+[Station #18] Car 81 picked up passenger 349.
+[Station #18] Car 76 picked up passenger 359.
+[Station #18] Car 71 picked up passenger 346.
+[Station #19] Car 92 has arrived at its destination. Total miles: 0, total revenue: $0.00
+[Station #19] Car 90 picked up passenger 363.
+[Station #19] Car 87 picked up passenger 362.
+[Station #20] Car 91 picked up passenger 392.
+[Station #20] Car 91 picked up passenger 396.
+[Station #20] Car 90 picked up passenger 390.
+[Station #20] Car 78 picked up passenger 389.
+[Station #21] Car 102 picked up passenger 402.
+[Station #21] Car 102 picked up passenger 406.
+[Station #21] Car 96 has arrived at its destination. Total miles: 1, total revenue: $0.00
+[Station #21] Car 83 picked up passenger 420.
+[Station #21] Car 78 picked up passenger 401.
+[Station #22] Car 107 picked up passenger 433.
+[Station #22] Car 101 picked up passenger 431.
+[Station #23] Car 112 picked up passenger 454.
+[Station #23] Car 106 picked up passenger 450.
+[Station #23] Car 100 has arrived at its destination. Total miles: 3, total revenue: $0.00
+[Station #23] Car 83 picked up passenger 459.
+[Station #24] Car 103 picked up passenger 466.
+[Station #24] Car 103 picked up passenger 476.
+[Station #24] Car 103 picked up passenger 480.
+[Station #24] Car 101 picked up passenger 461.
+[Station #25] Car 108 picked up passenger 483.
+[Station #26] Car 127 picked up passenger 517.
+[Station #26] Car 111 picked up passenger 511.
+[Station #27] Car 132 picked up passenger 532.
+[Station #27] Car 126 picked up passenger 529.
+[Station #27] Car 126 picked up passenger 534.
+[Station #27] Car 113 picked up passenger 525.
+[Station #28] Car 131 picked up passenger 544.
+[Station #28] Car 131 picked up passenger 553.
+[Station #28] Car 126 picked up passenger 555.
+[Station #29] Car 142 picked up passenger 572.
+[Station #29] Car 136 picked up passenger 569.
+[Station #29] Car 131 picked up passenger 561.
+[Station #30] Car 147 picked up passenger 581.
+[Station #30] Car 147 picked up passenger 585.
+[Station #30] Car 147 picked up passenger 589.
+[Station #30] Car 147 picked up passenger 600.
+[Station #30] Car 138 picked up passenger 590.
+[Station #1] Car 4 picked up passenger 12.
+[Station #1] Car 4 picked up passenger 17.
+[Station #1] Car 136 picked up passenger 10.
+[Station #1] Car 136 picked up passenger 16.
+[Station #1] Car 136 picked up passenger 19.
+[Station #3] Car 9 picked up passenger 56.
+[Station #4] Car 9 picked up passenger 74.
+[Station #5] Car 24 picked up passenger 86.
+[Station #5] Car 9 picked up passenger 85.
+[Station #5] Car 9 picked up passenger 95.
+[Station #6] Car 29 picked up passenger 113.
+[Station #6] Car 22 picked up passenger 107.
+[Station #6] Car 6 picked up passenger 115.
+[Station #7] Car 34 picked up passenger 136.
+[Station #7] Car 34 picked up passenger 138.
+[Station #7] Car 16 picked up passenger 131.
+[Station #8] Car 32 picked up passenger 148.
+[Station #8] Car 32 picked up passenger 150.
+[Station #8] Car 11 picked up passenger 143.
+[Station #9] Car 44 picked up passenger 166.
+[Station #9] Car 26 picked up passenger 167.
+[Station #10] Car 42 picked up passenger 181.
+[Station #11] Car 54 picked up passenger 210.
+[Station #11] Car 54 picked up passenger 217.
+[Station #12] Car 47 picked up passenger 225.
+[Station #13] Car 47 picked up passenger 243.
+[Station #14] Car 52 picked up passenger 267.
+[Station #15] Car 74 picked up passenger 286.
+[Station #15] Car 60 picked up passenger 281.
+[Station #15] Car 62 has arrived at its destination. Total miles: 2, total revenue: $0.00
+[Station #15] Car 46 picked up passenger 299.
+[Station #17] Car 84 picked up passenger 328.
+[Station #17] Car 61 picked up passenger 339.
+[Station #17] Car 67 picked up passenger 322.
+[Station #17] Car 67 picked up passenger 331.
+[Station #17] Car 67 picked up passenger 334.
+[Station #19] Car 73 picked up passenger 373.
+[Station #19] Car 76 picked up passenger 371.
+[Station #20] Car 73 picked up passenger 397.
+[Station #21] Car 90 picked up passenger 417.
+[Station #24] Car 102 picked up passenger 464.
+[Station #25] Car 107 picked up passenger 490.
+[Station #26] Car 106 picked up passenger 519.
+[Station #26] Car 112 picked up passenger 506.
+[Station #26] Car 112 picked up passenger 515.
+[Station #27] Car 127 picked up passenger 538.
+[Station #27] Car 111 dropped off passenger 447.
+[Station #27] Car 111 has arrived at its destination. Total miles: 4, total revenue: $20.00
+[Station #27] Car 129 has arrived at its destination. Total miles: 1, total revenue: $0.00
+[Station #27] Car 122 picked up passenger 539.
+[Station #28] Car 132 picked up passenger 548.
+[Station #28] Car 116 picked up passenger 551.
+[Station #29] Car 130 picked up passenger 568.
+[Station #29] Car 127 picked up passenger 563.
+[Station #1] Car 138 picked up passenger 5.
+[Station #3] Car 10 picked up passenger 45.
+[Station #4] Car 15 picked up passenger 71.
+[Station #6] Car 25 picked up passenger 101.
+[Station #6] Car 9 dropped off passenger 56.
+[Station #6] Car 9 dropped off passenger 85.
+[Station #6] Car 9 has arrived at its destination. Total miles: 4, total revenue: $20.00
+[Station #6] Car 15 picked up passenger 110.
+[Station #7] Car 30 picked up passenger 121.
+[Station #7] Car 30 picked up passenger 137.
+[Station #8] Car 29 picked up passenger 158.
+[Station #9] Car 39 picked up passenger 175.
+[Station #9] Car 29 picked up passenger 178.
+[Station #10] Car 34 picked up passenger 183.
+[Station #11] Car 50 picked up passenger 202.
+[Station #11] Car 50 picked up passenger 209.
+[Station #11] Car 32 picked up passenger 207.
+[Station #11] Car 39 picked up passenger 220.
+[Station #12] Car 53 picked up passenger 223.
+[Station #12] Car 53 picked up passenger 237.
+[Station #12] Car 54 picked up passenger 236.
+[Station #12] Car 44 picked up passenger 235.
+[Station #13] Car 58 picked up passenger 258.
+[Station #14] Car 64 picked up passenger 266.
+[Station #14] Car 47 picked up passenger 264.
+[Station #15] Car 64 picked up passenger 296.
+[Station #16] Car 69 picked up passenger 301.
+[Station #16] Car 69 picked up passenger 306.
+[Station #16] Car 69 picked up passenger 314.
+[Station #16] Car 64 picked up passenger 308.
+[Station #17] Car 79 picked up passenger 323.
+[Station #17] Car 69 picked up passenger 324.
+[Station #18] Car 84 picked up passenger 354.
+[Station #18] Car 79 picked up passenger 357.
+[Station #19] Car 84 picked up passenger 361.
+[Station #20] Car 92 picked up passenger 400.
+[Station #20] Car 84 picked up passenger 386.
+[Station #21] Car 92 picked up passenger 405.
+[Station #21] Car 92 picked up passenger 408.
+[Station #22] Car 105 dropped off passenger 410.
+[Station #22] Car 105 has arrived at its destination. Total miles: 1, total revenue: $5.00
+[Station #22] Car 96 picked up passenger 422.
+[Station #22] Car 96 picked up passenger 430.
+[Station #22] Car 96 picked up passenger 436.
+[Station #22] Car 89 picked up passenger 439.
+[Station #24] Car 88 picked up passenger 463.
+[Station #24] Car 88 picked up passenger 469.
+[Station #25] Car 102 dropped off passenger 402.
+[Station #25] Car 102 dropped off passenger 464.
+[Station #25] Car 102 has arrived at its destination. Total miles: 4, total revenue: $25.00
+[Station #26] Car 123 picked up passenger 509.
+[Station #26] Car 124 picked up passenger 516.
+[Station #27] Car 111 dropped off passenger 511.
+[Station #27] Car 107 picked up passenger 522.
+[Station #27] Car 107 picked up passenger 537.
+[Station #28] Car 134 picked up passenger 554.
+[Station #29] Car 139 picked up passenger 576.
+[Station #29] Car 106 picked up passenger 564.
+[Station #29] Car 106 picked up passenger 574.
+[Station #30] Car 143 picked up passenger 593.
+[Station #30] Car 127 picked up passenger 592.
+[Station #30] Car 134 picked up passenger 595.
+[Station #1] Car 142 picked up passenger 6.
+[Station #2] Car 138 picked up passenger 25.
+[Station #2] Car 134 picked up passenger 39.
+[Station #3] Car 147 dropped off passenger 581.
+[Station #3] Car 147 dropped off passenger 589.
+[Station #3] Car 147 has arrived at its destination. Total miles: 31, total revenue: $310.00
+[Station #4] Car 7 picked up passenger 63.
+[Station #4] Car 7 picked up passenger 78.
+[Station #6] Car 9 dropped off passenger 74.
+[Station #7] Car 25 picked up passenger 135.
+[Station #7] Car 132 picked up passenger 134.
+[Station #7] Car 9 picked up passenger 124.
+[Station #7] Car 1 picked up passenger 133.
+[Station #8] Car 15 picked up passenger 145.
+[Station #10] Car 40 dropped off passenger 146.
+[Station #10] Car 40 has arrived at its destination. Total miles: 2, total revenue: $10.00
+[Station #10] Car 24 dropped off passenger 86.
+[Station #10] Car 24 has arrived at its destination. Total miles: 5, total revenue: $25.00
+[Station #11] Car 22 picked up passenger 211.
+[Station #11] Car 22 picked up passenger 214.
+[Station #12] Car 39 picked up passenger 240.
+[Station #12] Car 22 dropped off passenger 107.
+[Station #12] Car 22 dropped off passenger 214.
+[Station #12] Car 22 has arrived at its destination. Total miles: 7, total revenue: $35.00
+[Station #13] Car 53 picked up passenger 254.
+[Station #13] Car 44 picked up passenger 249.
+[Station #13] Car 50 picked up passenger 248.
+[Station #14] Car 38 picked up passenger 261.
+[Station #14] Car 51 picked up passenger 272.
+[Station #16] Car 70 picked up passenger 311.
+[Station #16] Car 70 picked up passenger 315.
+[Station #16] Car 58 picked up passenger 307.
+[Station #16] Car 58 picked up passenger 313.
+[Station #18] Car 80 picked up passenger 353.
+[Station #20] Car 87 dropped off passenger 341.
+[Station #20] Car 87 has arrived at its destination. Total miles: 2, total revenue: $10.00
+[Station #20] Car 81 picked up passenger 383.
+[Station #20] Car 74 picked up passenger 384.
+[Station #21] Car 91 picked up passenger 414.
+[Station #21] Car 74 picked up passenger 416.
+[Station #22] Car 92 picked up passenger 428.
+[Station #22] Car 95 picked up passenger 423.
+[Station #22] Car 95 picked up passenger 438.
+[Station #23] Car 97 picked up passenger 448.
+[Station #23] Car 97 picked up passenger 451.
+[Station #23] Car 97 picked up passenger 456.
+[Station #23] Car 95 picked up passenger 452.
+[Station #24] Car 98 picked up passenger 475.
+[Station #25] Car 102 dropped off passenger 406.
+[Station #25] Car 109 has arrived at its destination. Total miles: 3, total revenue: $0.00
+[Station #25] Car 73 dropped off passenger 303.
+[Station #25] Car 73 dropped off passenger 397.
+[Station #25] Car 73 has arrived at its destination. Total miles: 10, total revenue: $70.00
+[Station #26] Car 108 picked up passenger 518.
+[Station #27] Car 118 picked up passenger 526.
+[Station #27] Car 118 picked up passenger 536.
+[Station #27] Car 112 picked up passenger 523.
+[Station #27] Car 102 picked up passenger 535.
+[Station #29] Car 111 picked up passenger 577.
+[Station #30] Car 128 picked up passenger 582.
+[Station #30] Car 111 picked up passenger 597.
+[Station #2] Car 111 picked up passenger 35.
+[Station #3] Car 142 picked up passenger 51.
+[Station #3] Car 142 picked up passenger 60.
+[Station #8] Car 21 picked up passenger 142.
+[Station #8] Car 8 picked up passenger 159.
+[Station #9] Car 18 dropped off passenger 72.
+[Station #9] Car 18 has arrived at its destination. Total miles: 5, total revenue: $25.00
+[Station #11] Car 24 picked up passenger 219.
+[Station #12] Car 22 dropped off passenger 211.
+[Station #12] Car 37 dropped off passenger 174.
+[Station #12] Car 37 has arrived at its destination. Total miles: 4, total revenue: $15.00
+[Station #13] Car 43 picked up passenger 241.
+[Station #13] Car 43 picked up passenger 247.
+[Station #13] Car 33 picked up passenger 246.
+[Station #14] Car 43 picked up passenger 262.
+[Station #17] Car 56 picked up passenger 325.
+[Station #18] Car 55 picked up passenger 358.
+[Station #20] Car 87 dropped off passenger 362.
+[Station #20] Car 80 picked up passenger 381.
+[Station #20] Car 68 picked up passenger 385.
+[Station #20] Car 63 picked up passenger 395.
+[Station #22] Car 74 picked up passenger 425.
+[Station #23] Car 78 picked up passenger 457.
+[Station #24] Car 100 picked up passenger 465.
+[Station #24] Car 100 picked up passenger 479.
+[Station #24] Car 95 picked up passenger 470.
+[Station #24] Car 105 picked up passenger 474.
+[Station #25] Car 100 picked up passenger 494.
+[Station #26] Car 97 picked up passenger 501.
+[Station #28] Car 122 picked up passenger 543.
+[Station #28] Car 122 picked up passenger 558.
+[Station #28] Car 118 picked up passenger 560.
+[Station #30] Car 130 picked up passenger 583.
+[Station #2] Car 137 picked up passenger 36.
+[Station #3] Car 111 picked up passenger 47.
+[Station #4] Car 138 picked up passenger 75.
+[Station #5] Car 5 picked up passenger 87.
+[Station #5] Car 149 picked up passenger 98.
+[Station #6] Car 5 dropped off passenger 3.
+[Station #6] Car 5 has arrived at its destination. Total miles: 5, total revenue: $25.00
+[Station #6] Car 149 picked up passenger 102.
+[Station #6] Car 149 picked up passenger 119.
+[Station #7] Car 146 dropped off passenger 596.
+[Station #7] Car 146 dropped off passenger 8.
+[Station #7] Car 146 has arrived at its destination. Total miles: 35, total revenue: $205.00
+[Station #9] Car 9 picked up passenger 170.
+[Station #9] Car 8 picked up passenger 177.
+[Station #10] Car 1 picked up passenger 191.
+[Station #10] Car 9 picked up passenger 192.
+[Station #11] Car 3 picked up passenger 205.
+[Station #11] Car 3 picked up passenger 218.
+[Station #12] Car 24 picked up passenger 229.
+[Station #14] Car 26 picked up passenger 271.
+[Station #14] Car 13 dropped off passenger 50.
+[Station #14] Car 13 dropped off passenger 114.
+[Station #14] Car 13 has arrived at its destination. Total miles: 11, total revenue: $95.00
+[Station #14] Car 29 picked up passenger 279.
+[Station #15] Car 47 picked up passenger 290.
+[Station #15] Car 23 picked up passenger 292.
+[Station #16] Car 62 picked up passenger 316.
+[Station #16] Car 62 picked up passenger 318.
+[Station #18] Car 60 picked up passenger 355.
+[Station #20] Car 56 dropped off passenger 253.
+[Station #20] Car 56 dropped off passenger 325.
+[Station #20] Car 56 has arrived at its destination. Total miles: 8, total revenue: $50.00
+[Station #21] Car 87 picked up passenger 404.
+[Station #23] Car 71 dropped off passenger 293.
+[Station #23] Car 71 dropped off passenger 335.
+[Station #23] Car 71 has arrived at its destination. Total miles: 8, total revenue: $70.00
+[Station #25] Car 114 picked up passenger 487.
+[Station #25] Car 114 picked up passenger 492.
+[Station #25] Car 73 dropped off passenger 373.
+[Station #25] Car 78 picked up passenger 484.
+[Station #27] Car 101 picked up passenger 524.
+[Station #29] Car 122 picked up passenger 573.
+[Station #29] Car 129 picked up passenger 578.
+[Station #1] Car 139 picked up passenger 18.
+[Station #1] Car 108 dropped off passenger 443.
+[Station #1] Car 108 dropped off passenger 483.
+[Station #1] Car 108 has arrived at its destination. Total miles: 37, total revenue: $350.00
+[Station #2] Car 139 picked up passenger 23.
+[Station #3] Car 147 dropped off passenger 585.
+[Station #3] Car 118 picked up passenger 41.
+[Station #4] Car 147 picked up passenger 65.
+[Station #5] Car 147 picked up passenger 100.
+[Station #6] Car 5 dropped off passenger 87.
+[Station #7] Car 10 picked up passenger 127.
+[Station #7] Car 149 picked up passenger 126.
+[Station #8] Car 10 picked up passenger 155.
+[Station #9] Car 18 dropped off passenger 83.
+[Station #9] Car 12 has arrived at its destination. Total miles: 6, total revenue: $0.00
+[Station #10] Car 17 dropped off passenger 68.
+[Station #10] Car 17 has arrived at its destination. Total miles: 6, total revenue: $30.00
+[Station #11] Car 132 picked up passenger 212.
+[Station #12] Car 8 picked up passenger 231.
+[Station #13] Car 39 picked up passenger 257.
+[Station #14] Car 13 dropped off passenger 55.
+[Station #17] Car 42 picked up passenger 337.
+[Station #18] Car 64 picked up passenger 344.
+[Station #20] Car 56 dropped off passenger 265.
+[Station #21] Car 60 dropped off passenger 255.
+[Station #21] Car 60 dropped off passenger 355.
+[Station #21] Car 60 has arrived at its destination. Total miles: 9, total revenue: $55.00
+[Station #25] Car 110 has arrived at its destination. Total miles: 3, total revenue: $0.00
+[Station #25] Car 77 has arrived at its destination. Total miles: 9, total revenue: $0.00
+[Station #26] Car 114 picked up passenger 505.
+[Station #27] Car 90 dropped off passenger 356.
+[Station #27] Car 90 dropped off passenger 390.
+[Station #27] Car 90 has arrived at its destination. Total miles: 9, total revenue: $80.00
+[Station #27] Car 104 picked up passenger 521.
+[Station #27] Car 104 picked up passenger 531.
+[Station #28] Car 104 picked up passenger 556.
+[Station #29] Car 124 picked up passenger 570.
+[Station #4] Car 142 dropped off passenger 572.
+[Station #4] Car 142 dropped off passenger 51.
+[Station #4] Car 142 has arrived at its destination. Total miles: 33, total revenue: $170.00
+[Station #5] Car 134 picked up passenger 89.
+[Station #6] Car 127 dropped off passenger 517.
+[Station #6] Car 127 dropped off passenger 563.
+[Station #6] Car 127 has arrived at its destination. Total miles: 38, total revenue: $365.00
+[Station #9] Car 21 picked up passenger 163.
+[Station #9] Car 21 picked up passenger 171.
+[Station #9] Car 21 picked up passenger 173.
+[Station #11] Car 2 dropped off passenger 28.
+[Station #11] Car 2 dropped off passenger 57.
+[Station #11] Car 2 has arrived at its destination. Total miles: 10, total revenue: $85.00
+[Station #12] Car 31 has arrived at its destination. Total miles: 5, total revenue: $0.00
+[Station #13] Car 138 dropped off passenger 590.
+[Station #13] Car 138 dropped off passenger 25.
+[Station #13] Car 138 has arrived at its destination. Total miles: 43, total revenue: $260.00
+[Station #18] Car 51 picked up passenger 348.
+[Station #19] Car 58 picked up passenger 364.
+[Station #21] Car 80 picked up passenger 419.
+[Station #21] Car 60 dropped off passenger 281.
+[Station #22] Car 60 picked up passenger 437.
+[Station #25] Car 86 has arrived at its destination. Total miles: 7, total revenue: $0.00
+[Station #27] Car 90 dropped off passenger 363.
+[Station #29] Car 104 picked up passenger 571.
+[Station #1] Car 124 picked up passenger 1.
+[Station #2] Car 124 picked up passenger 37.
+[Station #4] Car 142 dropped off passenger 6.
+[Station #6] Car 127 dropped off passenger 538.
+[Station #7] Car 146 dropped off passenger 4.
+[Station #9] Car 141 picked up passenger 172.
+[Station #10] Car 17 dropped off passenger 79.
+[Station #10] Car 141 picked up passenger 197.
+[Station #11] Car 1 picked up passenger 204.
+[Station #11] Car 141 picked up passenger 201.
+[Station #13] Car 138 dropped off passenger 5.
+[Station #18] Car 45 picked up passenger 351.
+[Station #20] Car 51 picked up passenger 382.
+[Station #20] Car 51 picked up passenger 399.
+[Station #23] Car 71 dropped off passenger 298.
+[Station #26] Car 105 picked up passenger 513.
+[Station #28] Car 68 dropped off passenger 285.
+[Station #28] Car 68 dropped off passenger 336.
+[Station #28] Car 68 has arrived at its destination. Total miles: 14, total revenue: $120.00
+[Station #29] Car 97 dropped off passenger 448.
+[Station #29] Car 97 dropped off passenger 456.
+[Station #29] Car 97 has arrived at its destination. Total miles: 9, total revenue: $60.00
+[Station #1] Car 108 dropped off passenger 472.
+[Station #1] Car 102 picked up passenger 20.
+[Station #2] Car 66 picked up passenger 26.
+[Station #3] Car 139 dropped off passenger 576.
+[Station #3] Car 139 dropped off passenger 23.
+[Station #3] Car 139 has arrived at its destination. Total miles: 33, total revenue: $165.00
+[Station #4] Car 137 picked up passenger 80.
+[Station #5] Car 118 dropped off passenger 526.
+[Station #5] Car 118 dropped off passenger 560.
+[Station #5] Car 118 has arrived at its destination. Total miles: 39, total revenue: $355.00
+[Station #6] Car 113 picked up passenger 103.
+[Station #10] Car 4 dropped off passenger 12.
+[Station #10] Car 4 has arrived at its destination. Total miles: 9, total revenue: $45.00
+[Station #14] Car 3 dropped off passenger 7.
+[Station #14] Car 3 dropped off passenger 205.
+[Station #14] Car 3 has arrived at its destination. Total miles: 13, total revenue: $80.00
+[Station #15] Car 13 picked up passenger 287.
+[Station #17] Car 26 dropped off passenger 116.
+[Station #17] Car 26 dropped off passenger 167.
+[Station #17] Car 26 has arrived at its destination. Total miles: 11, total revenue: $95.00
+[Station #24] Car 59 dropped off passenger 221.
+[Station #24] Car 59 dropped off passenger 277.
+[Station #24] Car 59 has arrived at its destination. Total miles: 12, total revenue: $110.00
+[Station #25] Car 75 has arrived at its destination. Total miles: 10, total revenue: $0.00
+[Station #25] Car 55 picked up passenger 486.
+[Station #28] Car 115 picked up passenger 547.
+[Station #28] Car 68 dropped off passenger 321.
+[Station #29] Car 97 dropped off passenger 451.
+[Station #29] Car 105 picked up passenger 562.
+[Station #29] Car 105 picked up passenger 575.
+[Station #3] Car 139 dropped off passenger 18.
+[Station #4] Car 129 picked up passenger 77.
+[Station #5] Car 118 dropped off passenger 536.
+[Station #7] Car 66 dropped off passenger 291.
+[Station #7] Car 66 dropped off passenger 26.
+[Station #7] Car 66 has arrived at its destination. Total miles: 51, total revenue: $275.00
+[Station #8] Car 134 dropped off passenger 554.
+[Station #8] Car 134 dropped off passenger 39.
+[Station #8] Car 134 has arrived at its destination. Total miles: 39, total revenue: $220.00
+[Station #10] Car 4 dropped off passenger 17.
+[Station #10] Car 113 picked up passenger 185.
+[Station #11] Car 2 dropped off passenger 31.
+[Station #11] Car 143 picked up passenger 208.
+[Station #11] Car 148 picked up passenger 216.
+[Station #11] Car 5 picked up passenger 215.
+[Station #12] Car 35 picked up passenger 233.
+[Station #15] Car 25 picked up passenger 283.
+[Station #19] Car 42 picked up passenger 370.
+[Station #21] Car 57 has arrived at its destination. Total miles: 9, total revenue: $0.00
+[Station #23] Car 85 picked up passenger 441.
+[Station #23] Car 85 picked up passenger 458.
+[Station #24] Car 59 dropped off passenger 275.
+[Station #25] Car 63 picked up passenger 491.
+[Station #25] Car 63 picked up passenger 495.
+[Station #25] Car 85 picked up passenger 488.
+[Station #27] Car 70 dropped off passenger 268.
+[Station #27] Car 70 dropped off passenger 311.
+[Station #27] Car 70 has arrived at its destination. Total miles: 13, total revenue: $120.00
+[Station #4] Car 122 dropped off passenger 539.
+[Station #4] Car 122 dropped off passenger 558.
+[Station #4] Car 122 has arrived at its destination. Total miles: 37, total revenue: $345.00
+[Station #6] Car 142 picked up passenger 105.
+[Station #7] Car 66 dropped off passenger 304.
+[Station #10] Car 140 dropped off passenger 542.
+[Station #10] Car 140 dropped off passenger 559.
+[Station #10] Car 140 has arrived at its destination. Total miles: 40, total revenue: $400.00
+[Station #12] Car 5 picked up passenger 228.
+[Station #13] Car 35 dropped off passenger 233.
+[Station #13] Car 35 has arrived at its destination. Total miles: 6, total revenue: $5.00
+[Station #14] Car 138 picked up passenger 276.
+[Station #14] Car 5 picked up passenger 263.
+[Station #22] Car 23 picked up passenger 432.
+[Station #27] Car 70 dropped off passenger 278.
+[Station #1] Car 104 dropped off passenger 521.
+[Station #1] Car 104 dropped off passenger 556.
+[Station #1] Car 104 has arrived at its destination. Total miles: 38, total revenue: $315.00
+[Station #2] Car 102 picked up passenger 33.
+[Station #2] Car 109 picked up passenger 34.
+[Station #2] Car 95 dropped off passenger 423.
+[Station #2] Car 95 dropped off passenger 452.
+[Station #2] Car 95 has arrived at its destination. Total miles: 41, total revenue: $375.00
+[Station #4] Car 88 dropped off passenger 352.
+[Station #4] Car 88 dropped off passenger 463.
+[Station #4] Car 88 has arrived at its destination. Total miles: 44, total revenue: $410.00
+[Station #4] Car 98 dropped off passenger 391.
+[Station #4] Car 98 dropped off passenger 475.
+[Station #4] Car 98 has arrived at its destination. Total miles: 42, total revenue: $400.00
+[Station #7] Car 107 dropped off passenger 433.
+[Station #7] Car 107 dropped off passenger 522.
+[Station #7] Car 107 has arrived at its destination. Total miles: 43, total revenue: $405.00
+[Station #8] Car 134 dropped off passenger 595.
+[Station #9] Car 134 picked up passenger 162.
+[Station #10] Car 146 picked up passenger 187.
+[Station #10] Car 140 dropped off passenger 552.
+[Station #12] Car 7 dropped off passenger 22.
+[Station #12] Car 7 dropped off passenger 78.
+[Station #12] Car 7 has arrived at its destination. Total miles: 10, total revenue: $90.00
+[Station #12] Car 99 picked up passenger 224.
+[Station #12] Car 99 picked up passenger 234.
+[Station #13] Car 99 picked up passenger 244.
+[Station #14] Car 3 dropped off passenger 27.
+[Station #15] Car 5 picked up passenger 300.
+[Station #15] Car 148 picked up passenger 282.
+[Station #15] Car 148 picked up passenger 297.
+[Station #16] Car 132 dropped off passenger 532.
+[Station #16] Car 132 dropped off passenger 134.
+[Station #16] Car 132 has arrived at its destination. Total miles: 47, total revenue: $280.00
+[Station #16] Car 148 dropped off passenger 594.
+[Station #16] Car 148 dropped off passenger 282.
+[Station #16] Car 148 has arrived at its destination. Total miles: 44, total revenue: $225.00
+[Station #17] Car 26 dropped off passenger 160.
+[Station #18] Car 6 dropped off passenger 40.
+[Station #18] Car 6 dropped off passenger 64.
+[Station #18] Car 6 has arrived at its destination. Total miles: 16, total revenue: $150.00
+[Station #19] Car 39 dropped off passenger 175.
+[Station #19] Car 39 dropped off passenger 240.
+[Station #19] Car 39 has arrived at its destination. Total miles: 11, total revenue: $85.00
+[Station #19] Car 25 dropped off passenger 90.
+[Station #19] Car 25 dropped off passenger 135.
+[Station #19] Car 25 has arrived at its destination. Total miles: 14, total revenue: $130.00
+[Station #27] Car 79 picked up passenger 530.
+[Station #28] Car 56 picked up passenger 550.
+[Station #28] Car 74 dropped off passenger 286.
+[Station #28] Car 74 dropped off passenger 416.
+[Station #28] Car 74 has arrived at its destination. Total miles: 13, total revenue: $100.00
+[Station #30] Car 100 picked up passenger 598.
+[Station #3] Car 101 dropped off passenger 412.
+[Station #3] Car 101 dropped off passenger 461.
+[Station #3] Car 101 has arrived at its destination. Total miles: 40, total revenue: $385.00
+[Station #4] Car 122 dropped off passenger 543.
+[Station #4] Car 98 dropped off passenger 434.
+[Station #7] Car 137 picked up passenger 122.
+[Station #7] Car 107 dropped off passenger 490.
+[Station #8] Car 142 picked up passenger 147.
+[Station #8] Car 142 picked up passenger 156.
+[Station #9] Car 122 picked up passenger 169.
+[Station #10] Car 122 picked up passenger 193.
+[Station #12] Car 7 dropped off passenger 63.
+[Station #13] Car 133 picked up passenger 251.
+[Station #13] Car 133 picked up passenger 259.
+[Station #14] Car 133 dropped off passenger 599.
+[Station #14] Car 133 dropped off passenger 259.
+[Station #14] Car 133 has arrived at its destination. Total miles: 45, total revenue: $215.00
+[Station #16] Car 132 dropped off passenger 548.
+[Station #18] Car 26 picked up passenger 360.
+[Station #19] Car 25 dropped off passenger 101.
+[Station #20] Car 37 picked up passenger 388.
+[Station #23] Car 45 picked up passenger 446.
+[Station #25] Car 53 dropped off passenger 203.
+[Station #25] Car 53 dropped off passenger 237.
+[Station #25] Car 53 has arrived at its destination. Total miles: 14, total revenue: $135.00
+[Station #28] Car 72 picked up passenger 557.
+[Station #28] Car 74 dropped off passenger 384.
+[Station #30] Car 68 picked up passenger 588.
+[Station #1] Car 104 dropped off passenger 531.
+[Station #2] Car 68 picked up passenger 29.
+[Station #2] Car 68 picked up passenger 38.
+[Station #3] Car 101 dropped off passenger 431.
+[Station #5] Car 86 picked up passenger 88.
+[Station #5] Car 86 picked up passenger 94.
+[Station #6] Car 120 picked up passenger 109.
+[Station #8] Car 131 dropped off passenger 540.
+[Station #8] Car 131 dropped off passenger 553.
+[Station #8] Car 131 has arrived at its destination. Total miles: 39, total revenue: $385.00
+[Station #9] Car 126 dropped off passenger 502.
+[Station #9] Car 126 dropped off passenger 534.
+[Station #9] Car 126 has arrived at its destination. Total miles: 41, total revenue: $405.00
+[Station #10] Car 137 picked up passenger 199.
+[Station #14] Car 145 picked up passenger 273.
+[Station #14] Car 133 dropped off passenger 251.
+[Station #15] Car 136 dropped off passenger 569.
+[Station #15] Car 136 dropped off passenger 16.
+[Station #15] Car 136 has arrived at its destination. Total miles: 45, total revenue: $290.00
+[Station #15] Car 99 picked up passenger 295.
+[Station #16] Car 148 dropped off passenger 216.
+[Station #19] Car 39 dropped off passenger 220.
+[Station #21] Car 25 picked up passenger 411.
+[Station #22] Car 8 dropped off passenger 58.
+[Station #22] Car 8 dropped off passenger 177.
+[Station #22] Car 8 has arrived at its destination. Total miles: 20, total revenue: $160.00
+[Station #24] Car 45 picked up passenger 478.
+[Station #25] Car 53 dropped off passenger 223.
+[Station #27] Car 59 picked up passenger 527.
+[Station #29] Car 72 dropped off passenger 557.
+[Station #29] Car 72 has arrived at its destination. Total miles: 14, total revenue: $5.00
+[Station #29] Car 59 picked up passenger 565.
+[Station #30] Car 55 picked up passenger 584.
+[Station #2] Car 95 dropped off passenger 438.
+[Station #3] Car 97 picked up passenger 54.
+[Station #4] Car 88 dropped off passenger 366.
+[Station #5] Car 109 picked up passenger 91.
+[Station #7] Car 120 picked up passenger 132.
+[Station #8] Car 131 dropped off passenger 544.
+[Station #8] Car 108 picked up passenger 144.
+[Station #9] Car 126 dropped off passenger 529.
+[Station #9] Car 93 dropped off passenger 376.
+[Station #9] Car 93 dropped off passenger 403.
+[Station #9] Car 93 has arrived at its destination. Total miles: 48, total revenue: $470.00
+[Station #10] Car 134 picked up passenger 184.
+[Station #10] Car 103 dropped off passenger 421.
+[Station #10] Car 103 dropped off passenger 476.
+[Station #10] Car 103 has arrived at its destination. Total miles: 47, total revenue: $450.00
+[Station #17] Car 19 picked up passenger 332.
+[Station #18] Car 6 dropped off passenger 42.
+[Station #18] Car 99 dropped off passenger 224.
+[Station #18] Car 99 dropped off passenger 244.
+[Station #18] Car 99 has arrived at its destination. Total miles: 56, total revenue: $55.00
+[Station #20] Car 31 picked up passenger 393.
+[Station #22] Car 8 dropped off passenger 159.
+[Station #24] Car 42 dropped off passenger 165.
+[Station #24] Car 42 dropped off passenger 337.
+[Station #24] Car 42 has arrived at its destination. Total miles: 15, total revenue: $110.00
+[Station #26] Car 47 dropped off passenger 225.
+[Station #26] Car 47 dropped off passenger 264.
+[Station #26] Car 47 has arrived at its destination. Total miles: 16, total revenue: $130.00
+[Station #28] Car 50 dropped off passenger 189.
+[Station #28] Car 50 dropped off passenger 209.
+[Station #28] Car 50 has arrived at its destination. Total miles: 18, total revenue: $175.00
+[Station #30] Car 85 dropped off passenger 326.
+[Station #30] Car 85 dropped off passenger 458.
+[Station #30] Car 85 has arrived at its destination. Total miles: 13, total revenue: $100.00
+[Station #2] Car 55 dropped off passenger 206.
+[Station #2] Car 55 dropped off passenger 486.
+[Station #2] Car 55 has arrived at its destination. Total miles: 49, total revenue: $420.00
+[Station #2] Car 71 picked up passenger 30.
+[Station #3] Car 95 picked up passenger 53.
+[Station #3] Car 65 picked up passenger 43.
+[Station #4] Car 82 dropped off passenger 333.
+[Station #4] Car 82 has arrived at its destination. Total miles: 45, total revenue: $225.00
+[Station #4] Car 65 picked up passenger 73.
+[Station #5] Car 91 dropped off passenger 367.
+[Station #5] Car 91 dropped off passenger 396.
+[Station #5] Car 91 has arrived at its destination. Total miles: 44, total revenue: $435.00
+[Station #5] Car 97 picked up passenger 92.
+[Station #5] Car 95 picked up passenger 93.
+[Station #9] Car 108 picked up passenger 176.
+[Station #10] Car 103 dropped off passenger 466.
+[Station #15] Car 136 dropped off passenger 10.
+[Station #18] Car 99 dropped off passenger 234.
+[Station #18] Car 138 picked up passenger 342.
+[Station #19] Car 26 picked up passenger 377.
+[Station #19] Car 138 picked up passenger 368.
+[Station #22] Car 22 picked up passenger 424.
+[Station #24] Car 42 dropped off passenger 181.
+[Station #26] Car 47 dropped off passenger 243.
+[Station #27] Car 44 dropped off passenger 166.
+[Station #27] Car 44 dropped off passenger 249.
+[Station #27] Car 44 has arrived at its destination. Total miles: 18, total revenue: $160.00
+[Station #28] Car 50 dropped off passenger 202.
+[Station #29] Car 41 dropped off passenger 196.
+[Station #29] Car 41 dropped off passenger 222.
+[Station #29] Car 41 has arrived at its destination. Total miles: 20, total revenue: $180.00
+[Station #30] Car 85 dropped off passenger 441.
+[Station #2] Car 61 dropped off passenger 245.
+[Station #2] Car 61 dropped off passenger 252.
+[Station #2] Car 61 has arrived at its destination. Total miles: 47, total revenue: $470.00
+[Station #2] Car 79 picked up passenger 32.
+[Station #5] Car 91 dropped off passenger 392.
+[Station #5] Car 65 dropped off passenger 260.
+[Station #5] Car 65 dropped off passenger 73.
+[Station #5] Car 65 has arrived at its destination. Total miles: 50, total revenue: $255.00
+[Station #12] Car 122 picked up passenger 232.
+[Station #16] Car 136 picked up passenger 319.
+[Station #17] Car 117 has arrived at its destination. Total miles: 51, total revenue: $0.00
+[Station #18] Car 143 dropped off passenger 567.
+[Station #18] Car 143 dropped off passenger 593.
+[Station #18] Car 143 has arrived at its destination. Total miles: 47, total revenue: $465.00
+[Station #18] Car 19 picked up passenger 345.
+[Station #18] Car 19 picked up passenger 350.
+[Station #22] Car 16 dropped off passenger 70.
+[Station #22] Car 16 dropped off passenger 108.
+[Station #22] Car 16 has arrived at its destination. Total miles: 18, total revenue: $170.00
+[Station #23] Car 22 picked up passenger 442.
+[Station #23] Car 22 picked up passenger 445.
+[Station #25] Car 45 picked up passenger 498.
+[Station #26] Car 40 picked up passenger 508.
+[Station #27] Car 44 dropped off passenger 235.
+[Station #29] Car 41 dropped off passenger 200.
+[Station #2] Car 61 dropped off passenger 250.
+[Station #4] Car 94 has arrived at its destination. Total miles: 43, total revenue: $0.00
+[Station #5] Car 65 dropped off passenger 43.
+[Station #9] Car 93 dropped off passenger 380.
+[Station #11] Car 120 dropped off passenger 109.
+[Station #11] Car 120 has arrived at its destination. Total miles: 45, total revenue: $25.00
+[Station #12] Car 134 picked up passenger 238.
+[Station #12] Car 108 picked up passenger 226.
+[Station #13] Car 112 dropped off passenger 454.
+[Station #13] Car 112 dropped off passenger 515.
+[Station #13] Car 112 has arrived at its destination. Total miles: 48, total revenue: $465.00
+[Station #17] Car 145 dropped off passenger 566.
+[Station #17] Car 145 dropped off passenger 591.
+[Station #17] Car 145 has arrived at its destination. Total miles: 46, total revenue: $455.00
+[Station #18] Car 143 dropped off passenger 579.
+[Station #19] Car 19 picked up passenger 372.
+[Station #21] Car 113 dropped off passenger 453.
+[Station #21] Car 113 dropped off passenger 103.
+[Station #21] Car 113 has arrived at its destination. Total miles: 56, total revenue: $355.00
+[Station #24] Car 37 picked up passenger 462.
+[Station #24] Car 37 picked up passenger 471.
+[Station #25] Car 29 dropped off passenger 113.
+[Station #25] Car 29 dropped off passenger 178.
+[Station #25] Car 29 has arrived at its destination. Total miles: 19, total revenue: $175.00
+[Station #26] Car 45 dropped off passenger 351.
+[Station #26] Car 45 dropped off passenger 478.
+[Station #26] Car 45 has arrived at its destination. Total miles: 17, total revenue: $50.00
+[Station #27] Car 27 has arrived at its destination. Total miles: 21, total revenue: $0.00
+[Station #1] Car 59 picked up passenger 9.
+[Station #2] Car 55 dropped off passenger 358.
+[Station #3] Car 74 picked up passenger 46.
+[Station #3] Car 74 picked up passenger 59.
+[Station #7] Car 95 picked up passenger 123.
+[Station #11] Car 120 dropped off passenger 132.
+[Station #11] Car 106 dropped off passenger 450.
+[Station #11] Car 106 dropped off passenger 564.
+[Station #11] Car 106 has arrived at its destination. Total miles: 47, total revenue: $430.00
+[Station #13] Car 112 dropped off passenger 506.
+[Station #15] Car 137 dropped off passenger 36.
+[Station #15] Car 137 dropped off passenger 122.
+[Station #15] Car 137 has arrived at its destination. Total miles: 45, total revenue: $105.00
+[Station #17] Car 135 has arrived at its destination. Total miles: 48, total revenue: $0.00
+[Station #18] Car 1 dropped off passenger 15.
+[Station #18] Car 1 dropped off passenger 191.
+[Station #18] Car 1 has arrived at its destination. Total miles: 17, total revenue: $125.00
+[Station #20] Car 15 dropped off passenger 48.
+[Station #20] Car 15 dropped off passenger 110.
+[Station #20] Car 15 has arrived at its destination. Total miles: 17, total revenue: $155.00
+[Station #21] Car 125 dropped off passenger 482.
+[Station #21] Car 125 dropped off passenger 510.
+[Station #21] Car 125 has arrived at its destination. Total miles: 54, total revenue: $535.00
+[Station #22] Car 123 dropped off passenger 485.
+[Station #22] Car 123 dropped off passenger 499.
+[Station #22] Car 123 has arrived at its destination. Total miles: 55, total revenue: $550.00
+[Station #22] Car 19 dropped off passenger 332.
+[Station #22] Car 19 dropped off passenger 350.
+[Station #22] Car 19 has arrived at its destination. Total miles: 18, total revenue: $45.00
+[Station #24] Car 39 picked up passenger 477.
+[Station #25] Car 37 picked up passenger 481.
+[Station #29] Car 33 dropped off passenger 129.
+[Station #29] Car 33 has arrived at its destination. Total miles: 22, total revenue: $110.00
+[Station #5] Car 74 picked up passenger 81.
+[Station #7] Car 55 picked up passenger 140.
+[Station #9] Car 104 picked up passenger 179.
+[Station #15] Car 83 dropped off passenger 329.
+[Station #15] Car 83 dropped off passenger 420.
+[Station #15] Car 83 has arrived at its destination. Total miles: 56, total revenue: $540.00
+[Station #15] Car 137 dropped off passenger 80.
+[Station #16] Car 127 picked up passenger 312.
+[Station #17] Car 145 dropped off passenger 586.
+[Station #17] Car 127 picked up passenger 327.
+[Station #18] Car 1 dropped off passenger 133.
+[Station #18] Car 144 has arrived at its destination. Total miles: 47, total revenue: $0.00
+[Station #21] Car 125 dropped off passenger 489.
+[Station #22] Car 16 dropped off passenger 84.
+[Station #22] Car 19 dropped off passenger 345.
+[Station #26] Car 45 dropped off passenger 446.
+[Station #27] Car 32 dropped off passenger 148.
+[Station #27] Car 32 dropped off passenger 207.
+[Station #27] Car 32 has arrived at its destination. Total miles: 20, total revenue: $175.00
+[Station #29] Car 33 dropped off passenger 246.
+[Station #30] Car 46 dropped off passenger 299.
+[Station #30] Car 46 has arrived at its destination. Total miles: 20, total revenue: $75.00
+[Station #1] Car 64 dropped off passenger 266.
+[Station #1] Car 64 dropped off passenger 308.
+[Station #1] Car 64 has arrived at its destination. Total miles: 46, total revenue: $440.00
+[Station #3] Car 38 dropped off passenger 180.
+[Station #3] Car 38 dropped off passenger 195.
+[Station #3] Car 38 has arrived at its destination. Total miles: 53, total revenue: $515.00
+[Station #5] Car 67 dropped off passenger 270.
+[Station #5] Car 67 dropped off passenger 331.
+[Station #5] Car 67 has arrived at its destination. Total miles: 49, total revenue: $475.00
+[Station #5] Car 48 dropped off passenger 182.
+[Station #5] Car 48 has arrived at its destination. Total miles: 53, total revenue: $265.00
+[Station #11] Car 106 dropped off passenger 519.
+[Station #15] Car 83 dropped off passenger 338.
+[Station #19] Car 124 dropped off passenger 516.
+[Station #19] Car 124 dropped off passenger 1.
+[Station #19] Car 124 has arrived at its destination. Total miles: 52, total revenue: $345.00
+[Station #19] Car 127 picked up passenger 379.
+[Station #20] Car 15 dropped off passenger 71.
+[Station #20] Car 141 dropped off passenger 172.
+[Station #20] Car 141 dropped off passenger 201.
+[Station #20] Car 141 has arrived at its destination. Total miles: 49, total revenue: $100.00
+[Station #21] Car 113 dropped off passenger 525.
+[Station #22] Car 123 dropped off passenger 497.
+[Station #23] Car 26 picked up passenger 444.
+[Station #24] Car 132 picked up passenger 467.
+[Station #25] Car 29 dropped off passenger 158.
+[Station #26] Car 23 dropped off passenger 118.
+[Station #26] Car 23 dropped off passenger 292.
+[Station #26] Car 23 has arrived at its destination. Total miles: 21, total revenue: $155.00
+[Station #27] Car 32 dropped off passenger 150.
+[Station #29] Car 42 picked up passenger 580.
+[Station #30] Car 49 has arrived at its destination. Total miles: 20, total revenue: $0.00
+[Station #3] Car 38 dropped off passenger 190.
+[Station #5] Car 67 dropped off passenger 322.
+[Station #7] Car 81 dropped off passenger 349.
+[Station #7] Car 81 has arrived at its destination. Total miles: 48, total revenue: $235.00
+[Station #8] Car 69 dropped off passenger 301.
+[Station #8] Car 69 dropped off passenger 314.
+[Station #8] Car 69 has arrived at its destination. Total miles: 52, total revenue: $500.00
+[Station #9] Car 52 dropped off passenger 213.
+[Station #9] Car 52 has arrived at its destination. Total miles: 56, total revenue: $280.00
+[Station #14] Car 89 dropped off passenger 439.
+[Station #14] Car 89 has arrived at its destination. Total miles: 54, total revenue: $250.00
+[Station #15] Car 98 picked up passenger 288.
+[Station #16] Car 98 picked up passenger 317.
+[Station #19] Car 35 picked up passenger 369.
+[Station #20] Car 35 picked up passenger 394.
+[Station #21] Car 149 dropped off passenger 98.
+[Station #21] Car 149 dropped off passenger 119.
+[Station #21] Car 149 has arrived at its destination. Total miles: 49, total revenue: $155.00
+[Station #21] Car 35 picked up passenger 407.
+[Station #21] Car 35 picked up passenger 418.
+[Station #26] Car 23 dropped off passenger 152.
+[Station #26] Car 31 picked up passenger 503.
+[Station #28] Car 31 picked up passenger 541.
+[Station #1] Car 64 dropped off passenger 296.
+[Station #3] Car 51 dropped off passenger 272.
+[Station #3] Car 51 dropped off passenger 382.
+[Station #3] Car 51 has arrived at its destination. Total miles: 50, total revenue: $440.00
+[Station #3] Car 30 dropped off passenger 112.
+[Station #3] Car 30 dropped off passenger 121.
+[Station #3] Car 30 has arrived at its destination. Total miles: 55, total revenue: $545.00
+[Station #5] Car 48 dropped off passenger 194.
+[Station #8] Car 69 dropped off passenger 306.
+[Station #9] Car 52 dropped off passenger 267.
+[Station #13] Car 131 picked up passenger 242.
+[Station #14] Car 121 dropped off passenger 504.
+[Station #14] Car 121 has arrived at its destination. Total miles: 47, total revenue: $230.00
+[Station #20] Car 141 dropped off passenger 197.
+[Station #21] Car 149 dropped off passenger 102.
+[Station #21] Car 116 dropped off passenger 551.
+[Station #21] Car 116 has arrived at its destination. Total miles: 55, total revenue: $255.00
+[Station #26] Car 20 has arrived at its destination. Total miles: 22, total revenue: $0.00
+[Station #30] Car 10 dropped off passenger 45.
+[Station #30] Car 10 dropped off passenger 155.
+[Station #30] Car 10 has arrived at its destination. Total miles: 28, total revenue: $245.00
+[Station #30] Car 36 picked up passenger 587.
+[Station #3] Car 51 dropped off passenger 348.
+[Station #7] Car 81 dropped off passenger 383.
+[Station #7] Car 71 picked up passenger 125.
+[Station #19] Car 124 dropped off passenger 570.
+[Station #23] Car 128 dropped off passenger 507.
+[Station #23] Car 128 dropped off passenger 549.
+[Station #23] Car 128 has arrived at its destination. Total miles: 55, total revenue: $540.00
+[Station #1] Car 11 dropped off passenger 44.
+[Station #1] Car 11 dropped off passenger 130.
+[Station #1] Car 11 has arrived at its destination. Total miles: 56, total revenue: $540.00
+[Station #2] Car 36 dropped off passenger 186.
+[Station #2] Car 36 dropped off passenger 198.
+[Station #2] Car 36 has arrived at its destination. Total miles: 52, total revenue: $500.00
+[Station #3] Car 30 dropped off passenger 120.
+[Station #6] Car 50 picked up passenger 104.
+[Station #6] Car 5 dropped off passenger 215.
+[Station #6] Car 5 dropped off passenger 263.
+[Station #8] Car 50 picked up passenger 151.
+[Station #11] Car 80 dropped off passenger 302.
+[Station #11] Car 80 dropped off passenger 381.
+[Station #11] Car 80 has arrived at its destination. Total miles: 53, total revenue: $510.00
+[Station #16] Car 131 picked up passenger 305.
+[Station #18] Car 78 dropped off passenger 389.
+[Station #18] Car 78 dropped off passenger 457.
+[Station #20] Car 115 dropped off passenger 547.
+[Station #20] Car 115 has arrived at its destination. Total miles: 55, total revenue: $250.00
+[Station #21] Car 119 has arrived at its destination. Total miles: 55, total revenue: $0.00
+[Station #21] Car 112 picked up passenger 413.
+[Station #26] Car 130 dropped off passenger 568.
+[Station #28] Car 22 picked up passenger 545.
+[Station #30] Car 10 dropped off passenger 127.
+[Station #2] Car 42 picked up passenger 21.
+[Station #4] Car 42 picked up passenger 61.
+[Station #9] Car 50 picked up passenger 168.
+[Station #11] Car 80 dropped off passenger 353.
+[Station #15] Car 88 picked up passenger 289.
+[Station #18] Car 131 picked up passenger 343.
+[Station #23] Car 128 dropped off passenger 546.
+[Station #23] Car 112 picked up passenger 455.
+[Station #26] Car 14 has arrived at its destination. Total miles: 23, total revenue: $0.00
+[Station #1] Car 11 dropped off passenger 66.
+[Station #3] Car 25 picked up passenger 49.
+[Station #4] Car 25 picked up passenger 62.
+[Station #8] Car 71 picked up passenger 141.
+[Station #2] Car 36 dropped off passenger 188.
+[Station #7] Car 21 dropped off passenger 142.
+[Station #7] Car 21 dropped off passenger 171.
+[Station #7] Car 54 dropped off passenger 210.
+[Station #7] Car 54 dropped off passenger 236.
+[Station #7] Car 54 has arrived at its destination. Total miles: 54, total revenue: $535.00
+[Station #12] Car 58 dropped off passenger 258.
+[Station #12] Car 58 dropped off passenger 313.
+[Station #14] Car 76 dropped off passenger 359.
+[Station #14] Car 76 has arrived at its destination. Total miles: 56, total revenue: $270.00
+[Station #15] Car 62 dropped off passenger 316.
+[Station #7] Car 54 dropped off passenger 217.
+[Station #9] Car 79 dropped off passenger 323.
+[Station #9] Car 79 dropped off passenger 530.
+[Station #9] Car 79 has arrived at its destination. Total miles: 51, total revenue: $450.00
+[Station #10] Car 63 dropped off passenger 320.
+[Station #10] Car 63 dropped off passenger 491.
+[Station #10] Car 63 has arrived at its destination. Total miles: 55, total revenue: $475.00
+[Station #12] Car 84 dropped off passenger 328.
+[Station #12] Car 84 dropped off passenger 361.
+[Station #12] Car 84 has arrived at its destination. Total miles: 53, total revenue: $520.00
+[Station #14] Car 76 dropped off passenger 371.
+[Station #15] Car 114 dropped off passenger 487.
+[Station #15] Car 114 dropped off passenger 505.
+[Station #15] Car 114 has arrived at its destination. Total miles: 50, total revenue: $475.00
+[Station #18] Car 104 picked up passenger 347.
+[Station #3] Car 39 picked up passenger 52.
+[Station #10] Car 63 dropped off passenger 395.
+[Station #10] Car 40 dropped off passenger 508.
+[Station #12] Car 84 dropped off passenger 354.
+[Station #15] Car 114 dropped off passenger 492.
+[Station #27] Car 111 dropped off passenger 577.
+[Station #27] Car 111 dropped off passenger 35.
+[Station #4] Car 39 picked up passenger 69.
+[Station #5] Car 34 dropped off passenger 136.
+[Station #5] Car 34 dropped off passenger 183.
+[Station #5] Car 34 has arrived at its destination. Total miles: 56, total revenue: $545.00
+[Station #6] Car 9 dropped off passenger 95.
+[Station #6] Car 9 dropped off passenger 170.
+[Station #9] Car 79 dropped off passenger 357.
+[Station #12] Car 31 dropped off passenger 393.
+[Station #12] Car 31 dropped off passenger 541.
+Total miles driven: 9513
+Total revenue made: $47945.00
+Average revenue per mile: $5.04
