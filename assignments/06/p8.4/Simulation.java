@@ -154,7 +154,7 @@ public class Simulation {
     }
 
     /**
-     * Checkss if there are still cars that can be moved.
+     * Checks if there are still cars that can be moved.
      *
      * @return if the simulation can progress
      */

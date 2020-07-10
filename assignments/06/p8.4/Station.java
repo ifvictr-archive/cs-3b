@@ -67,7 +67,7 @@ public class Station {
             }
 
             Passenger stationPassenger = this.getPassengers().get(i);
-            if (stationPassenger.getDestination().equals(car.getDestination())
+            if (stationPassenger.getDestination().getId() <= car.getDestination().getId()
                     && !stationPassenger.getDestination().equals(this)) {
                 this.removePassenger(stationPassenger);
                 car.pickup(stationPassenger);
