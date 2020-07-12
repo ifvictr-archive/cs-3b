@@ -1,0 +1,34 @@
+What would you like to do? Enter the corresponding number.
+1. Enter Zip Code
+2. Decode Bar Code
+>> 1
+Please enter a zip code: 91770
+Your bar code is:
+||:|:::::|||:::||:::|||::::||::|
+
+What would you like to do? Enter the corresponding number.
+1. Enter Zip Code
+2. Decode Bar Code
+>> 2
+Please enter bar code to decode: ||:|:::::|||:::||:::|||::::||::|
+The Zip Code is:
+91770
+
+What would you like to do? Enter the corresponding number.
+1. Enter Zip Code
+2. Decode Bar Code
+>> 1
+Please enter a zip code: 999999
+Invalid! The ZIP code must be 5 digits long
+Please enter the correct zip code:
+
+What would you like to do? Enter the corresponding number.
+1. Enter Zip Code
+2. Decode Bar Code
+>> 2
+Please enter bar code to decode: ||:|:::::|||:::||:::|||::::||::
+Invalid bar code!
+Please enter the correct bar code: ||:|:::::|||:::||:::|||::::||::||
+Invalid bar code!
+Please enter the correct bar code: ||:|:::::|||:::||:::|||::::||:a|
+Invalid bar code!
