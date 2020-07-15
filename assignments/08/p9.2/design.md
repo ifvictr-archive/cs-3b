@@ -17,14 +17,14 @@
 
 ```java
 // Clock
-public int getHour();
+public int getHours();
 public int getMinutes();
 public String getTime();
 
 // WorldClock
 public WorldClock(int offset);
 @Override
-public int getHour();
+public int getHours();
 ```
 
 ## Instance variables
