@@ -1,0 +1,16 @@
+Clock times (with alarm):
+  getHours: 2
+  getMinutes: 55
+  getTime: 02:55 ⏰
+Clock times (without alarm):
+  getHours: 2
+  getMinutes: 55
+  getTime: 02:55
+WorldClock (+3) times (with alarm):
+  getHours: 5
+  getMinutes: 55
+  getTime: 05:55 ⏰
+WorldClock (+3) times (without alarm):
+  getHours: 5
+  getMinutes: 55
+  getTime: 05:55
