@@ -1,0 +1,12 @@
+Clock times:
+  getHours: 2
+  getMinutes: 18
+  getTime: 02:18
+WorldClock (+3) times:
+  getHours: 5
+  getMinutes: 18
+  getTime: 05:18
+WorldClock (+9) times:
+  getHours: 11
+  getMinutes: 18
+  getTime: 11:18
