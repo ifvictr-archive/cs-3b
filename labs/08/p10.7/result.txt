@@ -1,0 +1,2 @@
+Average balance: $335666.67
+Expected: $335666.67
