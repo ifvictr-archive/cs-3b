@@ -1,0 +1,6 @@
+Category totals in USD ($)
+
+Dinner                  100.00
+Transportation           90.00
+Lodging                 200.00
+Conference             2000.00

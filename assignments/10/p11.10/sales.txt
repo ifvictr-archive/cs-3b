@@ -1,0 +1,6 @@
+John Doe;Dinner;60.00;2020-01-01
+John Doe;Conference;1000.00;2020-01-01
+Jane Doe;Conference;1000.00;2020-01-01
+Jack Doe;Lodging;200.00;2020-01-01
+Jane Doe;Dinner;40.00;2020-01-01
+Jack Doe;Transportation;90.00;2020-01-02
