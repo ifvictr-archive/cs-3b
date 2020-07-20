@@ -1,0 +1,6 @@
+Enter the name of the file to pull from: foo.txt
+File not found, please enter another filename.
+Enter the name of the file to pull from: accounts_invalid.txt
+The specified file isn’t in a valid format. Please try another file.
+Enter the name of the file to pull from: accounts.txt
+The top account is #400, with a balance of $10000.00.
